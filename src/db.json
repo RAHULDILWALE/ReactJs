@@ -1,0 +1,211 @@
+{
+  "posts": [
+    {
+      "title": "Python420",
+      "author": "Rohit420adf",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "posts": [
+        {
+          "id": 1,
+          "posts": [
+            {
+              "id": 1,
+              "title": "json-server",
+              "author": "typicode"
+            }
+          ],
+          "isAddPost": true,
+          "title": "Java",
+          "body": "",
+          "isEditPost": false,
+          "author": "Rahul"
+        },
+        {
+          "id": 2,
+          "posts": [
+            {
+              "id": 1,
+              "posts": [
+                {
+                  "id": 1,
+                  "title": "json-server",
+                  "author": "typicode"
+                }
+              ],
+              "isAddPost": true,
+              "title": "Java",
+              "body": "",
+              "isEditPost": false,
+              "author": "Rahul"
+            }
+          ],
+          "isAddPost": true,
+          "title": "Python",
+          "body": "",
+          "isEditPost": false,
+          "author": "Rohit"
+        }
+      ],
+      "isAddPost": true,
+      "title": "Python2",
+      "body": "",
+      "isEditPost": false,
+      "author": "Rohit3"
+    },
+    {
+      "title": "Python200",
+      "author": "Rohit480000000",
+      "id": 4
+    },
+    {
+      "title": "Python20",
+      "author": "Rohit480",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "posts": [
+        {
+          "title": "Python420",
+          "author": "Rohit420adf",
+          "id": 2
+        },
+        {
+          "id": 3,
+          "posts": [
+            {
+              "id": 1,
+              "posts": [
+                {
+                  "id": 1,
+                  "title": "json-server",
+                  "author": "typicode"
+                }
+              ],
+              "isAddPost": true,
+              "title": "Java",
+              "body": "",
+              "isEditPost": false,
+              "author": "Rahul"
+            },
+            {
+              "id": 2,
+              "posts": [
+                {
+                  "id": 1,
+                  "posts": [
+                    {
+                      "id": 1,
+                      "title": "json-server",
+                      "author": "typicode"
+                    }
+                  ],
+                  "isAddPost": true,
+                  "title": "Java",
+                  "body": "",
+                  "isEditPost": false,
+                  "author": "Rahul"
+                }
+              ],
+              "isAddPost": true,
+              "title": "Python",
+              "body": "",
+              "isEditPost": false,
+              "author": "Rohit"
+            }
+          ],
+          "isAddPost": true,
+          "title": "Python2",
+          "body": "",
+          "isEditPost": false,
+          "author": "Rohit3"
+        },
+        {
+          "title": "Python200",
+          "author": "Rohit480000000",
+          "id": 4
+        },
+        {
+          "title": "Python20",
+          "author": "Rohit480",
+          "id": 5
+        }
+      ],
+      "isAddPost": true,
+      "title": "ee",
+      "body": "",
+      "isEditPost": false,
+      "username": " ",
+      "post": {},
+      "isSearchPost": false,
+      "isListPost": true,
+      "errorMsg": " ",
+      "author": "ee"
+    }
+  ],
+  "Products": [
+    {
+      "image": {},
+      "url": "https://firebasestorage.googleapis.com/v0/b/upload-e31b4.appspot.com/o/images%2FIMG_20190818_201433.jpg?alt=media&token=0c5c6507-432c-4de8-86ec-2fa6365c70fd",
+      "progress": 100,
+      "productName": "Car",
+      "price": "500000",
+      "quantity": "6000",
+      "isAvailable": true,
+      "description": "awFAEGEggg aeE\ngeaEAGeAGG",
+      "flag": true,
+      "id": 1
+    },
+    {
+      "image": {},
+      "url": "https://firebasestorage.googleapis.com/v0/b/upload-e31b4.appspot.com/o/images%2FIMG_20190818_201433.jpg?alt=media&token=807fb049-8f78-4bf3-9fd9-f80cafa84f1f",
+      "progress": 100,
+      "productName": "bike",
+      "price": "62200000",
+      "quantity": "65000",
+      "isAvailable": true,
+      "description": "awfgegesg gseeE\ngeaEAGeAGG",
+      "flag": true,
+      "id": 2
+    },
+    {
+      "image": {},
+      "url": "https://firebasestorage.googleapis.com/v0/b/upload-e31b4.appspot.com/o/images%2FIMG_20190818_201433.jpg?alt=media&token=807fb049-8f78-4bf3-9fd9-f80cafa84f1f",
+      "progress": 100,
+      "productName": "bike",
+      "price": "62200000",
+      "quantity": "65000",
+      "isAvailable": true,
+      "description": "awfgegesg gseeE\ngeaEAGeAGG",
+      "flag": true,
+      "id": 3
+    },
+    {
+      "image": {},
+      "url": "",
+      "progress": 0,
+      "productName": "Dress",
+      "price": "3000",
+      "quantity": "60000",
+      "isAvailable": true,
+      "description": "It is a dress it is in red color of size medium any one can wear it.",
+      "flag": false,
+      "id": 4
+    },
+    {
+      "image": {},
+      "url": "",
+      "progress": 0,
+      "productName": "bbbbbbbbbbbbb",
+      "price": "bbbbbbbbbbbbbbbb",
+      "quantity": "bbbbbbbbbbbbb",
+      "isAvailable": true,
+      "description": "fsggaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "flag": false,
+      "id": 5
+    }
+  ]
+}
